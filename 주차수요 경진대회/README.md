@@ -1,5 +1,5 @@
 ## 주차수요 예측 AI 경진대회 
-
+![image](https://user-images.githubusercontent.com/84311622/132935717-74103b6a-6b9a-4e3e-9cb3-a71066d44eff.png)
 - [대회 링크](https://dacon.io/competitions/official/235745/overview/description)
 - 진행 시기 : 21.06.10 ~ 21.07.30
 - 혼자 진행한 대회  
